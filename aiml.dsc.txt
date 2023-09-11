@@ -1,0 +1,25 @@
+INSIGHTS:
+i have gone through the insight of the datasets
+       while analysing analysing about single variabe(UNIVARITE) individually it decalre about students performance
+which they compare that with their daily day practises like parttimejob,hourspent,iq etc which may affect 
+their scoring capability like age factor contibutuing to spending less time on stufy rather than concentrating 
+on work, rather certain factor like IQ boost their link on studying smart etc 
+	These data usualyy talks about thinngs to improve on specific persons result cause it tells us the exact lacking point 
+of it.
+
+bivariate:
+	analysing about it, according to mr it decides about interlinking of data proporsional to prodectivity cause,
+most young guys may not have parttimr jobs but better IQ so thinking in that vision they can acheive easily they just 
+want to worry about time they spend so i can conclude that their proposion of time between each data is to be smart to 
+achive their plan.
+
+MULTIVARIATE:
+	it discuss about a conflict on data ,which have strong zone as well as the opposite that it people who ignore their
+weekness and strong in their zone never fail with a big failure, personall intrest plays a role where habeing a part time job
+doesnt even mater with respect to age so this datas and their capabilities are always interliked in every way.
+
+*i dont really good with jupitornotebook whichinvoles python so i dont have ideas about patters and trends to potrait on them.
+
+
+
+   
